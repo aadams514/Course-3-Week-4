@@ -1,0 +1,29 @@
+Subject: The individual who participated in each event. They were given a unique identified 1 through 6
+Event: The activity they were doing while their data was being collected.  The consisted of the following events: 
+ -WALKING
+ -WALKING_UPSTAIRS
+ -WALKING_DOWNSTAIRS
+ -SITTING
+ -STANDING
+ -LAYING
+ Remaining columns were broken down into the following categories.  
+Time Body Accelerator-XYZ
+Time Gravity Accelerator-XYZ
+Time Body Accelerator Jerk-XYZ
+Time Body Gyroscope-XYZ
+Time Body Gyroscope Jerk-XYZ
+Time Body Accelerator Magnitude
+Time Gravity Accelerator Magnitude
+Time Body Accelerator Jerk Magnitude
+Time Body Gyroscope Magnitude
+Time Body Gyroscope Jerk Magnitude
+Frequeny Body Accelerator-XYZ
+Frequeny Body Accelerator Jerk-XYZ
+Frequeny Body Gyroscope-XYZ
+Frequeny Body Accelerator Magnitude
+Frequeny Body Accelerator Jerk Magnitude
+Frequeny Body Gyroscope Magnitude
+Frequeny Body Gyroscope Jerk Magnitude
+Each category with an XYZ was broken down into a separate colum in the tidy data set.axis
+
+ 
