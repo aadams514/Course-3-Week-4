@@ -11,4 +11,4 @@
 ## 7. Makes a table withonly the mean and standard deviation data.
 ## 8. Updates the names of each column to make the table more easily understood.
 ## 9. Creates a separate tidy data set that summarizes all the columns by subject and event.
-##10. Shows data set in consol.
+## 10. Shows data set in console.
